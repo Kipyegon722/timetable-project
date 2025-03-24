@@ -21,7 +21,7 @@ th, td {
 }
 
 th {
-    background-color: #007bff;
+    background-color: #4b99ec;
     color: white;
     font-weight: bold;
 }
@@ -31,9 +31,9 @@ td.verticle-text {
     transform: rotate(180deg);
     text-align: center;
     font-weight: bold;
-    background-color: #ffc107;
+    background-color: #ebcc6f;
 }
-
+/* Wacha hii ikae hapa for my reference and revision,
 tr:nth-child(even) td {
     background-color: #f2f2f2;
 }
@@ -45,7 +45,7 @@ tr:hover td {
 h1 {
     color: #007bff;
 }
-
+*/
 
 
 
